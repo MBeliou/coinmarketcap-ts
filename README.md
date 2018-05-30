@@ -11,3 +11,5 @@ coinmarketcap.getTicker
 coinmarketcap.getTickerByID
 
 ```
+
+Compiled files are located in ./dist
